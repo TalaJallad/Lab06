@@ -1,0 +1,86 @@
+body {
+    background: 
+    url(https://lh3.googleusercontent.com/proxy/OufSv_biizLt4JXcL2tK_FH7V2biNTb4kCxr0wD4C62nEkj50Qc5NE1VrYH1XPXq6GHWtaZ2Z7J6_xNOOaHRGD6eDr1z43b9C_9ukxpO1qh9lumxqXo),
+    
+    
+}
+#CompanyHistory h1 {
+    color: white;
+    text-size-adjust: 28px;
+}
+#CompanyHistory h1{
+    text-align: center;
+}
+
+body{ 
+    background-color: rosybrown;
+}
+
+nav ul li {
+    display: inline;
+    
+}
+
+nav ul li {
+    font-family:sans-serif;
+    color: teal;
+    
+}
+h2 {color: teal;}
+h2 {
+    border: teal;
+}
+#Awards h3{
+    color:orange;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p {
+    text-align:center ;
+}
+
+h2 {
+    margin-top: 3px;
+    margin-bottom:3px;
+    border-style: double;
+    border-width: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: thistle;
+}
+h2 {
+    text-align: center;
+}
+.alignleft {
+    text-align: left;
+}
+.alignright {
+    text-align: right;
+}
+footer h3 {
+    text-align: center;
+    color: white;
+
+}
+
+footer ul li {
+    display:block;
+    text-align: center;
+}
+#Awards  {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-style:groove;
+    border-color:orange;
+    padding-left: -3px ;
+    background-image: url(https://s19538.pcdn.co/wp-content/uploads/2020/02/awards.jpg);
+
+}
+footer ul li a {
+    text-decoration: none;
+    color:navy
+}
+img {
+    float:right
+}
